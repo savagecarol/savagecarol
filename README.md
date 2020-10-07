@@ -1,8 +1,9 @@
 
 
-### Hi ,
 
-![gif from nerdy.dev](?raw=true)
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savagecarol&label=Views&color=blue&style=plastic" alt="savagecarol" /> </p>
 

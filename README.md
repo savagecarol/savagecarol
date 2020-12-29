@@ -1,6 +1,4 @@
 
-[![image](https://user-images.githubusercontent.com/56194329/95329090-0a0a6e00-08c4-11eb-945a-6b3ee36b8f67.jpeg)](https://github.com/savagecarol?tab=repositories)
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savagecarol&label=Views&color=blue&style=plastic" alt="savagecarol" /> </p>

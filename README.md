@@ -19,17 +19,6 @@
 <br />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=savagecarol&label=Views&color=blue&style=plastic" alt="savagecarol" /> </p>
-
-
-
-
-<br/>
-<br/>
-
-
-
-
 - 🔭 I’m currently working in Hiyathi Technology
 - 🌱 I’m currently learning Flutter, data Structure.
 - 👯 I’m looking to collaborate on YouTube.
@@ -39,14 +28,7 @@
 - ⚡ Fun fact: dffnk.nre;kng
 
 
-
 <br/>
-
-
-[![Linkedin: savagecarol](https://img.shields.io/badge/-savagecarol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savagecarol/)](https://www.linkedin.com/in/savagecarol/)
-[![GitHub savagecarol](https://img.shields.io/github/followers/savagecarol?label=follow&style=social)](https://github.com/savagecarol)
-
-
 
 **Languages and Tools:**  
 
@@ -55,15 +37,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/56194329/95325098-53f05580-08be-11eb-94e5-245d7e2bfb6f.jpg"></code>    
-
-
-
-<a href="https://github.com/savagecarol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savagecarol&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/savagecarol">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=savagecarol&show_icons=true&theme=dark&line_height=27" alt="SavageCarol github stats"/>
-</a>
 
 
 <div align="center">

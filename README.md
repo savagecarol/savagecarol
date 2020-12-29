@@ -1,15 +1,27 @@
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kartikeya!](https://kunal-kushwaha.github.io) 
 
+<a href="https://www.linkedin.com/in/savagecarol/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/_savage_carol_">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:karthiksharma1411@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCbaBHATNs2ved8TWVJYhZ7Q?view_as=subscriber">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://karthiksharma1411.medium.com/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+<br />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savagecarol&label=Views&color=blue&style=plastic" alt="savagecarol" /> </p>
 
 
-<a href="https://www.linkedin.com/in/savagecarol/">
-  <img align="left" alt="Kartikeya 's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/savagecarol">
-  <img align="left" alt="Kartikeya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 
 
 <br/>

@@ -15,6 +15,9 @@
 <a href="https://karthiksharma1411.medium.com/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://savagecarol.github.io/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1024px-Globe_icon.svg.png" />
+</a>
 
 <br/>
 <br />

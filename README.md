@@ -23,7 +23,7 @@
 <br />
 
 
-- 🔭 I’m currently working in Hiyathi Technology
+- 🔭 I’m currently working in Hyathi Technology
 - 🌱 I’m currently learning data Structure , Machine Learning.
 - 👯 I’m looking to collaborate on YouTube.
 - 🤔 I’m looking for help with VelocityX.

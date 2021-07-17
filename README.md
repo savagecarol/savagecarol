@@ -43,4 +43,3 @@
 
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/savagecarol/savagecarol/output/github-contribution-grid-snake.svg)

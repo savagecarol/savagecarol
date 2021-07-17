@@ -43,6 +43,4 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github.com/savagecarol/savagecarol/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+

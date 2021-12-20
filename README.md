@@ -37,7 +37,6 @@
 ![Kartikeya's github stats](https://github-readme-stats.vercel.app/api?username=savagecarol&show_icons=true&hide_border=true)
 <br />
 
-![Activity - Referesh to load](https://guarded-peak-25044.herokuapp.com/graph?username=savagecarol&theme=react-dark&area=true)
 
 ### Show some ❤️ by starring some of the repositories!
 

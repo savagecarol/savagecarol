@@ -28,8 +28,6 @@
 - 👯 I’m looking to collaborate on YouTube.
 - 🤔 I’m looking for help with VelocityX.
 - 💬 Ask me about Flutter.
-- 📫 How to reach me: 
-- ⚡ Fun fact: Could I Be wear any more clothes?
 
 
 <br/>
